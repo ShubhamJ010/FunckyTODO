@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/FunkyTODO/static/js/main.cca28e9c.chunk.js",
+    "main.js.map": "/FunkyTODO/static/js/main.cca28e9c.chunk.js.map",
+    "runtime-main.js": "/FunkyTODO/static/js/runtime-main.e07a938e.js",
+    "runtime-main.js.map": "/FunkyTODO/static/js/runtime-main.e07a938e.js.map",
+    "static/js/2.c475bd67.chunk.js": "/FunkyTODO/static/js/2.c475bd67.chunk.js",
+    "static/js/2.c475bd67.chunk.js.map": "/FunkyTODO/static/js/2.c475bd67.chunk.js.map",
+    "index.html": "/FunkyTODO/index.html",
+    "precache-manifest.bd3287c98206d67866c724532318b8b0.js": "/FunkyTODO/precache-manifest.bd3287c98206d67866c724532318b8b0.js",
+    "service-worker.js": "/FunkyTODO/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e07a938e.js",
+    "static/js/2.c475bd67.chunk.js",
+    "static/js/main.cca28e9c.chunk.js"
+  ]
+}
